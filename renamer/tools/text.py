@@ -22,11 +22,11 @@ class TEXT:
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [FOR MORE BOTS](https://t.me/ABOUT_DEVIL_DAD)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+** Group:** [OWNER](https://t.me/D_E_V_l_L)
 
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** Source Code:** [Press Me](https://github.com/kkverma25/TG-RENAMER-BOT)
 """
 
     HELP_USER = """**Follow Below Steps:**
