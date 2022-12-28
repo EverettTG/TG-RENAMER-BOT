@@ -35,7 +35,7 @@
         },
         "BOT_PASSWORD": {
             "description": "If you want to use the bot private you can set a password to use only by your.",
-            "required": false
+            "required": true
         },
         "CUSTOM_CAPTION": {
             "description": "A default caption to be added to the file at bottom",
@@ -43,14 +43,14 @@
         },
         "FORCE_SUB": {
             "description": "A telegram channel username without @ to force users to join channel before using bot.",
-            "required": false
+            "required": true
         },
         "OWNER_ID": {
             "description": "Your Telegram user id, Get this from @FileStore_Nsbot."
         },
         "ENV": {
             "description": "Set it to anything to enable configuration by environment variables.",
-            "value": "ANYTHING"
+            "value": "TheFiti"
         },
         "TIME_GAP": {
             "description": "Set the timegap in sec to reduce FloodWait. If you don't want to add leave empty. ",
